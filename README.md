@@ -2,7 +2,7 @@
 <h1>GoMarketplace</h1>
 <h2>Application for purchasing products</h2>
 <br>
-<img width="600" src="images/app.png" alt="OBahia - Análise de séries temporais">
+<img width="600" src="images/app.png" alt="GoMarketplace">
 <br>
 <br>
 </div>
