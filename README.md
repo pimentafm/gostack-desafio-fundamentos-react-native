@@ -1,6 +1,6 @@
 <div align="center">
 <h1>GoMarketplace</h1>
-<h2>Application for purchasing products</h2>
+<h2>Application for purchasing products (Android version)</h2>
 <br>
 <img width="600" src="images/app.png" alt="GoMarketplace">
 <br>
